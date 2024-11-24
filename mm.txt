@@ -275,8 +275,8 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 福星高照,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 鸿运当头,https://pull.kktv8.com/livekktv/99350550.flv
 大吉大利,https://pull.kktv8.com/livekktv/128600025.flv
-电影_星爷,http://diyp.zxxoo.work/huya/11342412#http://diyp.zxxoo.work/huya/11342412
-电影_星爷粤语,http://diyp.zxxoo.work/huya/11336587#http://diyp.zxxoo.work/huya/11336587
+电影_星爷,http://diyp.zxxoo.work/huya/11342412#http://159.75.85.63:35455/huya/11342412
+电影_星爷粤语,http://diyp.zxxoo.work/huya/11336587
 电影_英叔,http://diyp.zxxoo.work/huya/11342421
 电影_英叔2,http://diyp.zxxoo.work/huya/27586442
 电影_发哥,http://diyp.zxxoo.work/huya/11342387
