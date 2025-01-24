@@ -4,7 +4,7 @@ CCTV-2财经,http://113.195.44.106:9901/tsfile/live/1058_1.m3u8#http://58.19.38.
 CCTV-3综艺,http://113.195.44.106:9901/tsfile/live/0003_1.m3u8#http://58.19.38.162:9901/tsfile/live/0003_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.12:5140
 CCTV-4中文国际,http://113.195.44.106:9901/tsfile/live/0004_1.m3u8#http://58.19.38.162:9901/tsfile/live/1000_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.13:5140
 CCTV-5体育,http://113.195.44.106:9901/tsfile/live/0005_1.m3u8#http://58.19.38.162:9901/tsfile/live/0005_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.14:5140
-CCTV-5+体育赛事,https://stream1.freetv.fun/bda92480f218103f7780b3c808b7ccd2056467b765af74abe6758a73a0fa66f4.m3u8#http://61.52.26.190:2000/rtp/225.1.4.75:1104#http://home2.neumantang.com:8888/udp/239.0.0.22:5140#http://123.130.84.106:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0#http://36.44.157.134:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.17.116.69:9908/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+体育赛事,https://tvpull.careryun.com/tv/cctv5+.m3u8#http://home2.neumantang.com:8888/udp/239.0.0.22:5140
 CCTV-6电影,http://113.195.44.106:9901/tsfile/live/0006_1.m3u8#http://58.19.38.162:9901/tsfile/live/0006_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.15:5140
 CCTV-7军事·农业,http://113.195.44.106:9901/tsfile/live/0007_1.m3u8#http://58.19.38.162:9901/tsfile/live/1001_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.16:5140
 CCTV-8电视剧,http://113.195.44.106:9901/tsfile/live/0008_1.m3u8#http://58.19.38.162:9901/tsfile/live/0008_1.m3u8?key=txiptv#http://home2.neumantang.com:8888/udp/239.0.0.17:5140
