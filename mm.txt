@@ -579,40 +579,40 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 香港卫视,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
 
 🎬影视频道,#genre#
-贝贝直播,https://mursor.ottiptv.cc/douyu/431460
-冰冰经典,https://mursor.ottiptv.cc/douyu/74374
-网神影厅,https://mursor.ottiptv.cc/douyu/508118
-静静电影,https://mursor.ottiptv.cc/douyu/5668371
-僵尸剧集,https://mursor.ottiptv.cc/douyu/7356023
-经典影视,https://mursor.ottiptv.cc/douyu/6091425
-武侠影视,https://mursor.ottiptv.cc/douyu/7655471
-金庸经典,https://mursor.ottiptv.cc/douyu/12128227
-港剧天地,https://mursor.ottiptv.cc/douyu/4290711
-港剧天空,https://mursor.ottiptv.cc/douyu/747764
-港剧天下,https://mursor.ottiptv.cc/douyu/5522351
-古装剧集,https://mursor.ottiptv.cc/douyu/6911044
-橙记电影,https://mursor.ottiptv.cc/douyu/4549169
-喜剧专场,https://mursor.ottiptv.cc/douyu/8009547
-僵尸轮播,https://mursor.ottiptv.cc/douyu/6906628
-电视剧集,https://mursor.ottiptv.cc/douyu/8371123
-奇光主播,https://mursor.ottiptv.cc/douyu/11849873
-遇见元芳,https://mursor.ottiptv.cc/douyu/3439096
-幽兰远山,https://mursor.ottiptv.cc/douyu/6027991
-新三国志,https://mursor.ottiptv.cc/douyu/5908256
-老三国志,https://mursor.ottiptv.cc/douyu/7459925
-邵氏影视,https://mursor.ottiptv.cc/douyu/4246519
-探狄仁杰,https://mursor.ottiptv.cc/douyu/12442176
-苹果影视,https://mursor.ottiptv.cc/douyu/2793084
-万事熊猫,https://mursor.ottiptv.cc/douyu/7812810
-一起港剧,https://mursor.ottiptv.cc/douyu/5061550
-超级塞亚,https://mursor.ottiptv.cc/douyu/4373285
-追梦凌宝,https://mursor.ottiptv.cc/douyu/1377142
-摸鱼剧集,https://mursor.ottiptv.cc/douyu/11922242
-武侠剧场,https://mursor.ottiptv.cc/douyu/9285904
-胡椒粉丝,https://mursor.ottiptv.cc/douyu/310926
-儿时剧集,https://mursor.ottiptv.cc/douyu/319576
-猫姬剧集,https://mursor.ottiptv.cc/douyu/9242659
-胡八一局,https://mursor.ottiptv.cc/douyu/5635000
+贝贝直播,http://iptv.jxpan.vip:18888/aio/douyu/431460
+冰冰经典,http://iptv.jxpan.vip:18888/aio/douyu/74374
+网神影厅,http://iptv.jxpan.vip:18888/aio/douyu/508118
+静静电影,http://iptv.jxpan.vip:18888/aio/douyu/5668371
+僵尸剧集,http://iptv.jxpan.vip:18888/aio/douyu/7356023
+经典影视,http://iptv.jxpan.vip:18888/aio/douyu/6091425
+武侠影视,http://iptv.jxpan.vip:18888/aio/douyu/7655471
+金庸经典,http://iptv.jxpan.vip:18888/aio/douyu/12128227
+港剧天地,http://iptv.jxpan.vip:18888/aio/douyu/4290711
+港剧天空,http://iptv.jxpan.vip:18888/aio/douyu/747764
+港剧天下,http://iptv.jxpan.vip:18888/aio/douyu/5522351
+古装剧集,http://iptv.jxpan.vip:18888/aio/douyu/6911044
+橙记电影,http://iptv.jxpan.vip:18888/aio/douyu/4549169
+喜剧专场,http://iptv.jxpan.vip:18888/aio/douyu/8009547
+僵尸轮播,http://iptv.jxpan.vip:18888/aio/douyu/6906628
+电视剧集,http://iptv.jxpan.vip:18888/aio/douyu/8371123
+奇光主播,http://iptv.jxpan.vip:18888/aio/douyu/11849873
+遇见元芳,http://iptv.jxpan.vip:18888/aio/douyu/3439096
+幽兰远山,http://iptv.jxpan.vip:18888/aio/douyu/6027991
+新三国志,http://iptv.jxpan.vip:18888/aio/douyu/5908256
+老三国志,http://iptv.jxpan.vip:18888/aio/douyu/7459925
+邵氏影视,http://iptv.jxpan.vip:18888/aio/douyu/4246519
+探狄仁杰,http://iptv.jxpan.vip:18888/aio/douyu/12442176
+苹果影视,http://iptv.jxpan.vip:18888/aio/douyu/2793084
+万事熊猫,http://iptv.jxpan.vip:18888/aio/douyu/7812810
+一起港剧,http://iptv.jxpan.vip:18888/aio/douyu/5061550
+超级塞亚,http://iptv.jxpan.vip:18888/aio/douyu/4373285
+追梦凌宝,http://iptv.jxpan.vip:18888/aio/douyu/1377142
+摸鱼剧集,http://iptv.jxpan.vip:18888/aio/douyu/11922242
+武侠剧场,http://iptv.jxpan.vip:18888/aio/douyu/9285904
+胡椒粉丝,http://iptv.jxpan.vip:18888/aio/douyu/310926
+儿时剧集,http://iptv.jxpan.vip:18888/aio/douyu/319576
+猫姬剧集,http://iptv.jxpan.vip:18888/aio/douyu/9242659
+胡八一局,http://iptv.jxpan.vip:18888/aio/douyu/5635000
 
 🔫虎牙影视,#genre#
 电影_星爷,http://iptv.jxpan.vip:18888/aio/huya/11342412
